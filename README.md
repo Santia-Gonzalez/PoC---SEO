@@ -14,7 +14,7 @@ Este proyecto realiza un análisis SEO de una página web utilizando `Puppeteer`
 1. Clona este repositorio:
 
     ```bash
-    git clone https://github.com/Santia-Gonzalez/CONCEPTO.git
+    git clone https://github.com/Santia-Gonzalez/PoC--SEO.git
     cd tu-repositorio
     ```
 
